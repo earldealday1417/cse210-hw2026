@@ -1,3 +1,7 @@
+// Week4 YouTube Video Program - CSE210hw2026
+// This program creates a list of YouTube videos, each with a title, author, length, and comments. It then displays the information for each video along with its comments.
+// I have put comments which serves as my markings and guide.
+
 using System;
 using System.Collections.Generic;
 
