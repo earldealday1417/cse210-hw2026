@@ -1,3 +1,9 @@
+// Week02 Resumes - CSE210hw2026
+// This program creates a resume for a user, including their name and a list of jobs they   
+//  have held. Each job includes the job title, company name, start year, and end year.
+//  The program displays the resume information in a formatted manner.  
+
+
 using System;
 
 class Program
