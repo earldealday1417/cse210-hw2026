@@ -1,3 +1,6 @@
+// Week02 Journal - CSE210hw2026
+// This program allows the user to create a journal by adding entries with prompts and responses. The user can display the journal, save it to a file, and load it from a file. Each entry consists of a date, a prompt, and a response.
+
 using System;
 using System.Collections.Generic;
 using System.IO; // Needed for file operations
