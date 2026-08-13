@@ -1,4 +1,5 @@
 // Week01 Exercise 3 Stretch Challenge - CSE210hw2026
+// This program is a number guessing game where the user tries to guess a randomly generated number between 1 and 100. The program provides feedback on whether the user's guess is too high or too low, and counts the number of guesses taken. After the user guesses correctly, they are asked if they want to play again.
 
 using System;
 
