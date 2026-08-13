@@ -1,3 +1,9 @@
+// Week03 Fractions - CSE210hw2026
+// This program demonstrates the use of a Fraction class that allows the user to create fractions, display
+// them as strings, and calculate their decimal values. The program tests the Fraction class by creating
+// several Fraction objects using different constructors and methods, and displays their string representations
+// and decimal values.
+
 using System;
 
 class Program
