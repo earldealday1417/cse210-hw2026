@@ -1,4 +1,6 @@
 //Week01 Exercise 4 Stretch Challenge - CSE210hw2026
+// This program allows the user to input a list of numbers, and then calculates and displays the sum, average, largest number, smallest positive number, and a sorted list of the numbers entered.
+
 
 using System;
 using System.Collections.Generic;
