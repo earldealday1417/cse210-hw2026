@@ -1,5 +1,5 @@
 // Week 01 Exercise 2 - Stretch Challenge - CSE210hw2026
-//Sorry for submitting this late. Thank you for yur consideration.
+// Sorry for submitting this late. Thank you for your consideration.
 // This program asks the user for their grade percentage and outputs the corresponding letter grade with a sign (+ or -).
 // The program also provides feedback on whether the user passed the course based on their grade percentage.
 
