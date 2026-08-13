@@ -1,3 +1,7 @@
+// Week01 Exercise 1 - CSE210hw2026
+// This program asks the user for their first and last name, then outputs a formatted string with their name.
+// The program demonstrates basic input/output operations in C# and string concatenation.
+
 using System;
 
 class Program
