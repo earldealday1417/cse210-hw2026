@@ -1,4 +1,5 @@
 // Week01 Exercise5 - CSE210hw2026
+// This program demonstrates the use of functions in C#. It includes functions to display a welcome message, prompt the user for their name and favorite number, calculate the square of the number, and display the result.
 
 using System;
 
